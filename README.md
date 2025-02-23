@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Nast Hryhoriev</h1>
----
 
 ## 👨‍💻 About Me
 
@@ -45,7 +44,7 @@
 
 ## 🌟 Let's Connect!
 <p align="center">
-  <a href="https://x.com/nasthryhoriev" target="_blank">
+  <a href="[https://x.com/nasthryhoriev](https://github.com/nasthryhoriev)" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
   <a href="https://discord.com/users/joffreyof" target="_blank">
