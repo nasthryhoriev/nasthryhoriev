@@ -40,10 +40,6 @@
 
 ## 🌟 Vamos Conectar!
 <p align="center">
-  <a href="https://github.com/nasthryhoriev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://discord.com/users/joffreyof" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <strong>Mail:</strong> gustavohaik@proton.me
 </p>
+
