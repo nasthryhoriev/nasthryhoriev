@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nast!
 
-[![nast](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nasthryhoriev/github-readme-stats)
+[![nast](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nasthryhoriev/)
 
 ### Linguagens de Programação  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
