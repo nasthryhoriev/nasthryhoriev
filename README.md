@@ -36,10 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasthryhoriev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/nasthryhoriev/nasthryhoriev/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</p>
-
 ---
 
 ## 🌟 Let's Connect!
