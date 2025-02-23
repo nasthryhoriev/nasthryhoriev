@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 **Cursando Técnico em Sistemas**  
+- 🎓 **Cursando Técnico em Desenvolvimento de Sistemas**  
 - 🛠️ Apaixonado por **Cibersegurança**  
 - 🎂 **16 anos**  
 
