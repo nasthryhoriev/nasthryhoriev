@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm nasthryhoriev</h1>
+<h1 align="center">👋 Hi, I'm Nast Hryhoriev</h1>
 ---
 
 ## 👨‍💻 About Me
